@@ -1,0 +1,7 @@
+C:\webservicos\util\CriarUsuario\CriarUsuario\bin\Debug\CriarUsuario.exe.config
+C:\webservicos\util\CriarUsuario\CriarUsuario\bin\Debug\CriarUsuario.exe
+C:\webservicos\util\CriarUsuario\CriarUsuario\bin\Debug\CriarUsuario.pdb
+C:\webservicos\util\CriarUsuario\CriarUsuario\obj\Debug\CriarUsuario.csprojAssemblyReference.cache
+C:\webservicos\util\CriarUsuario\CriarUsuario\obj\Debug\CriarUsuario.csproj.CoreCompileInputs.cache
+C:\webservicos\util\CriarUsuario\CriarUsuario\obj\Debug\CriarUsuario.exe
+C:\webservicos\util\CriarUsuario\CriarUsuario\obj\Debug\CriarUsuario.pdb
